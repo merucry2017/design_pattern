@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adapter_pattern" />
+        <module name="strategy_pattern" />
+        <module name="composite_pattern" />
+        <module name="interpreter_pattern" />
+        <module name="state_pattern" />
+        <module name="chain_of_responsibility" />
+        <module name="factory_method_model" />
+        <module name="flyweight_pattern" />
+        <module name="facade_pattern" />
+        <module name="template_method_pattern" />
+        <module name="observer_pattern" />
+        <module name="prototype_pattern" />
+        <module name="decorator_pattern" />
+        <module name="memnto_pattern" />
+        <module name="command_pattern" />
+        <module name="mediator_pattern" />
+        <module name="Iterator_pattern" />
+        <module name="abstract _factory _model" />
+        <module name="builder_pattern" />
+        <module name="visitor_pattern" />
+        <module name="singleton_pattern" />
+        <module name="bridge_pattern" />
+        <module name="proxy_pattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design_pattern" target="1.8" />
+      <module name="factory_method _model" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

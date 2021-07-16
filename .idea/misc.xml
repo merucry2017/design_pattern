@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/singleton_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/abstract _factory _model/pom.xml" />
+        <option value="$PROJECT_DIR$/factory_method_model/pom.xml" />
+        <option value="$PROJECT_DIR$/builder_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/prototype_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/decorator_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/composite_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/bridge_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/facade_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/flyweight_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/template_method_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/command_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/chain_of_responsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/strategy_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Iterator_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/observer_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/memnto_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/visitor_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/state_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/interpreter_pattern/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
